@@ -2,6 +2,7 @@ form {
     display: flex;
     flex-direction: column;
     width: 400px;
+    margin-left:570px ;
 }
 
 input, select {
